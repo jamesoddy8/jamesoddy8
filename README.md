@@ -58,7 +58,7 @@ For my MA degree thesis I wanted to identify an issue that had not been extensiv
 ## Experience <br>
 
 **The Drinks Company (2018 to 2020)**    
-*Account Manager*  
+*Marketing & Sales Associate*  
 
 **Massey PR (May 2015 to April 2017)**   
 *Junior Account Executive*  
