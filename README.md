@@ -21,7 +21,7 @@ Software development encompasses all of my interests: challenging environments w
 
 #### Excellent communicator
 
-During my time working in public relations and marketing, I liased with clients, journalists and the general public on a daily basis. Since then I have continued to further develop and refine both my verbal and written communication skills for software development through daily pairing and working in teams to complete projects.
+During my time working in public relations and marketing, I liaised with clients, journalists and the general public on a daily basis. Since then I have continued to further develop and refine both my verbal and written communication skills for software development through daily pairing and working in teams to complete projects.
 
 #### Great team player
 
