@@ -1,7 +1,7 @@
 # JAMES ODDY
 <br>
 
-I am a passionate and dynamic **Full Stack Junior Developer** who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
+I am a passionate and adaptive **Full Stack Junior Developer** who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
 
 Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas and an environment where active learning of new tech is encouraged. I am looking for a role where I can strengthen what I have learned so far and continue to learn to enhance my knowledge of software development.
 
