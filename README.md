@@ -1,11 +1,11 @@
 # JAMES ODDY
 <br>
 
-I am a passionate and adaptive **Full Stack Junior Developer** who recently graduated Makers Academy. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
+I am a passionate and adaptive **Software Engineer** who currently works for Just Eat Takeaway in the Continuous Delivery Engineering team. I have recently moved into tech after studying environment & development geography and working in Marketing & PR. 
 
 Software development encompasses all of my interests: challenging environments with the potential to alleviate global issues; collaboration with people on exciting new ideas and an environment where active learning of new tech is encouraged. I am looking for a role where I can strengthen what I have learned so far and continue to learn to enhance my knowledge of software development.
 
-**Tech Skills**: Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Heroku, Sinatra, Node.js, jQuery, React, Twitter API, Google Maps API.
+**Tech Skills**: Ansible, AWS, Ruby, Rails, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, SQLite, Heroku, Sinatra, Node.js, jQuery, React, Twitter API, Google Maps API.
 
 ## Projects <br>
 
@@ -55,6 +55,9 @@ For my MA degree thesis I wanted to identify an issue that had not been extensiv
 * 2:1 
 
 ## Experience <br>
+
+**Just Eat Takeaway (2021 to present)** 
+*Associate Software Engineer*
 
 **The Drinks Company (2018 to 2020)**    
 *Marketing & Sales Associate*  
